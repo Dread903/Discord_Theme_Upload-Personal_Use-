@@ -45,7 +45,7 @@
   --tint-colour: 255,51,159;
   --tint-brightness: 0.04;
   --font: Source Sans Pro;
-  --window-padding: 2px;
+  --window-padding: 8px;
   --window-roundness: 8px;
   --update-notice-1: none;
 }
