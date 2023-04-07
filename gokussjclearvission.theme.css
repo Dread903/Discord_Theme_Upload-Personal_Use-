@@ -41,7 +41,7 @@
   --user-popout-saturation: 100%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 3px;
+  --user-popout-blur: 1px;
   --user-modal-image: url('https://sportshub.cbsistatic.com/i/2021/03/16/b4f7f687-a09e-40da-b014-5777e976b46a/goku-ssj4-dbh-1119497.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
@@ -52,7 +52,7 @@
   --user-modal-saturation: 100%;
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
-  --user-modal-blur: 3px;
+  --user-modal-blur: 1px;
   --home-icon: url('https://i.pinimg.com/originals/7e/e5/b1/7ee5b190dde2faf3a543472bf2833a9c.gif');
   --home-position: center;
   --home-size: 97px;
