@@ -37,6 +37,39 @@
 /* Context icons */
 @import url("https://stickfab.github.io/pc-fluenticons/src/fluenticons-context.css");
 
+/* User Popout Theme Color */
+
+@import url(https://maendisease.github.io/BetterDiscordStuff/css/ProfileBannerSkins.css);
+
+
+/* Funny Buttons */
+.button-12Fmur .contents-3NembX {
+    transform: rotate(0deg);
+    transition: transform 0.3s;
+}
+.button-12Fmur:hover .contents-3NembX {
+    transform: rotate(30deg);
+}
+.button-12Fmur:hover .contents-3NembX svg {
+    height: 28px !important;
+    width: 28px !important;
+}
+.button-12Fmur .contents-3NembX svg {
+    transition: width 0.3s, height 0.3s;
+}
+/* Visible VC Text Button */
+#app-mount .openChatIconItem-2kj5qO {
+    display: flex;
+    order: 1;
+    justify-content: center;
+    border-radius: 4px;
+    width: 42px;
+    padding-right: 0;
+}
+
+.openChatIconItem-2kj5qO:hover { background-color: var(--background-modifier-selected); }
+.openChatIconItem-2kj5qO .actionIcon-2sw4Sl { color: var(--channels-default); }
+
 
 :root {
     --badge-size: 22px; /*discord defualt = 18px, theme defualt = 22px;*/
